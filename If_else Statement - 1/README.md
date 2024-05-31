@@ -1,0 +1,3 @@
+- Define a variable called `mySurname` and assign your surname to it
+- Using the if operator (or ternary operator https://www.baeldung.com/java-ternary-operator), determine if your surname contains the sequence of letters `ni`
+- Print the result in this way: `Your surname [contains|doesn't contain] the sequence of letters 'ni'`

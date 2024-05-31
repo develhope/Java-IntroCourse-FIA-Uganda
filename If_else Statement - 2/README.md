@@ -1,0 +1,2 @@
+- Define a variable called `myName` and assign your name to it
+- Using the `if-else` statement, print if the number of letters in your name is even or odd
